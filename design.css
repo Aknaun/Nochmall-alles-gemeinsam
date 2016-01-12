@@ -1,6 +1,13 @@
 body {
-    background-color: black;
+    
 }
 h1 {
     color: aquamarine;
+    background-color: darkseagreen;
+}
+header ul li {
+    color: blue;
+    background-color: red;
+    display: inline;
+        
 }
